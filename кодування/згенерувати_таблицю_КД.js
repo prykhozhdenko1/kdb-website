@@ -6,7 +6,7 @@ function getIcon(symbol) {
 }
 
 const charDefinitions = [
-    ['\0', "Недійсний"],
+    ['\0', "Недійсне"],
     ['\1', "Дія", `<div style="display: flex; align-items: center">${getIcon('ДІЯ_1')}</div>`],
     ['', ""],
     ['', ""],
